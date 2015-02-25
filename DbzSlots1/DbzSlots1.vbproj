@@ -59,7 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="img\" />
-    <Folder Include="js\" />
   </ItemGroup>
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
@@ -87,6 +86,8 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="css\main.css" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
