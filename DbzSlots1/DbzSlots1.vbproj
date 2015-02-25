@@ -57,9 +57,7 @@
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="img\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
     <Import Include="System" />
@@ -84,6 +82,21 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\BuuBlanks.png" />
+    <Content Include="img\FriezaLose.png" />
+    <Content Include="img\GohanLose.png" />
+    <Content Include="img\GohanWin.png" />
+    <Content Include="img\GokuWin.png" />
+    <Content Include="img\GokuWinRed.png" />
+    <Content Include="img\PiccoloWin.png" />
+    <Content Include="img\SlotImg.png" />
+    <Content Include="img\Slots.png" />
+    <Content Include="img\spin2win.fw.png" />
+    <Content Include="img\TrunksWin.png" />
+    <Content Include="img\Vegetad1timer.png" />
+    <Content Include="img\Vegetad2timer.png" />
+    <Content Include="img\VegetaWin.png" />
+    <Content Include="img\VegetoJackpot.png" />
     <Content Include="index.html" />
     <Content Include="css\main.css" />
     <Content Include="js\jquery.js" />
