@@ -1,0 +1,94 @@
+﻿/*
+menu {
+    border:solid 1px RED;
+}
+*/
+ul#playerStats {
+    list-style-type: none;
+    padding: 0;
+    margin: 5px;
+}
+#spinBtn {
+    width:19px;
+    height:62px;
+    position: absolute;
+    border-radius:50%;
+    margin:117px 0 0 315px;
+}
+
+#spinBtn:hover {
+    width:19px;
+    height:62px;
+    position: absolute;
+    border-radius:50px;
+    margin:117px 0 0 315px;
+    background-color:aquamarine;
+    border:solid 1px #000000;
+    opacity:0.1;
+}
+
+#quitBtn {
+    width:1px;
+    height:16px;
+    position: absolute;
+    border-radius:6px;
+    margin:482px 0 0 182px;
+}
+
+#quitBtn:hover {
+    width:1px;
+    height:16px;
+    position: absolute;
+    border-radius:8px;
+    margin:482px 0 0 182px;
+    background-color:aquamarine;
+    opacity:0.1;
+}
+
+#resetBtn {
+    width:1px;
+    height:32px;
+    position: absolute;
+    margin:335px 0 0 287px;
+}
+
+#resetBtn:hover {
+    width:1px;
+    height:32px;
+    position: absolute;
+    margin:335px 0 0 287px;
+    background-color:aquamarine;
+    opacity:0.1;
+}
+
+#incBetBtn {
+    width:1px;
+    height:28px;
+    position: absolute;
+    margin:265px 0 0 305px;
+}
+
+#incBetBtn:hover {
+    width:1px;
+    height:28px;
+    position: absolute;
+    margin:265px 0 0 305px;
+    background-color:aquamarine;
+    opacity:0.1;
+}
+
+#decBetBtn {
+    width:1px;
+    height:28px;
+    position: absolute;
+    margin:265px 0 0 347px;
+}
+
+#decBetBtn:hover {
+    width:1px;
+    height:28px;
+    position: absolute;
+    margin:265px 0 0 347px;
+    background-color:aquamarine;
+    opacity:0.1;
+}
